@@ -21,6 +21,7 @@ I'm an undergraduate Computer Engineering student at the **University of Pisa**,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+<!--
 ### 📊 My GitHub Stats
 
 <details>
@@ -29,6 +30,7 @@ I'm an undergraduate Computer Engineering student at the **University of Pisa**,
   [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartyMcFly2905&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartyMcFly2905&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+-->
 
 ### 💬 Let's connect!
 
