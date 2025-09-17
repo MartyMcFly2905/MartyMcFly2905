@@ -5,7 +5,7 @@ I'm an undergraduate Computer Engineering student at the **University of Pisa**,
 ### 🚀 Projects
 
 - **CHIP-8 Emulator**: Currently building a CHIP-8 emulator from scratch. This project is a hands-on application of concepts learned in my *Reti Logiche* and *Calcolatori Elettronici* courses, helping me to solidify my understanding of microprocessors.
-- **[Course Notes Repository](https://github.com/MartyMcFly2905/Appunti_IngInformatica)**: A public repository where I'm organizing and sharing my computer engineering notes. I'm currently working on this courses:
+- **[Course Notes Repository](https://github.com/MartyMcFly2905/Appunti_IngInformatica)**: A public repository where I'm organizing and sharing my computer engineering notes. I'm currently working on this courses notes:
   - Calcolatori elettronici
   - Elettrotecnica
 
