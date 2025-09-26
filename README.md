@@ -4,10 +4,13 @@ I'm an undergraduate Computer Engineering student at the **University of Pisa**,
 
 ### 🚀 What I'm building right now
 
-- **CHIP-8 Emulator**: Currently building a CHIP-8 emulator from scratch. This project is a hands-on application of concepts learned in my *Reti Logiche* and *Calcolatori Elettronici* courses, helping me to solidify my understanding of microprocessors.
+- **PMK**: PisaMicroKernel(PMK) is a minimal x86-64 microkernel written in C++ and Assembly, developed as a personal project to reinforce concepts from the University of Pisa courses **Computer Architecture (Calcolatori Elettronici)** and **Operating Systems**.  
+It runs on QEMU, featuring boot to 64-bit mode, basic memory management, process scheduling, system calls, and a simple user shell.
+
 - **[Course Notes Repository](https://github.com/MartyMcFly2905/Appunti_IngInformatica)**: A public repository where I'm organizing and sharing my computer engineering notes. I'm currently working on this courses notes:
   - Calcolatori elettronici
   - Elettrotecnica
+  - Sistemi operativi
 
 ### 💻 Skills
 
