@@ -4,9 +4,8 @@ I'm an undergraduate Computer Engineering student at the **University of Pisa**,
 
 ### 🚀 What I'm building right now
 
-- **PMK**: PisaMicroKernel(PMK) is a minimal x86-64 microkernel written in C++ and Assembly, developed as a personal project to reinforce concepts from the University of Pisa courses **Computer Architecture (Calcolatori Elettronici)** and **Operating Systems**.  
-It runs on QEMU, featuring boot to 64-bit mode, basic memory management, process scheduling, system calls, and a simple user shell.
-
+- **SwapDaemon**: Implementation of a Demand-Paging System with a Swapper Daemon for the "Calcolatori Elettronici" (Computer Architecture) course.  
+This project extends the provided educational kernel to support on-demand page loading and disk swapping, adding a DMA-based disk driver, page-fault handling, and a privileged swapper process that dynamically manages memory under constrained RAM conditions.
 - **[Course Notes Repository](https://github.com/MartyMcFly2905/Appunti_IngInformatica)**: A public repository where I'm organizing and sharing my computer engineering notes. I'm currently working on this courses notes:
   - Calcolatori elettronici
   - Elettrotecnica
