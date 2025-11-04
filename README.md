@@ -4,8 +4,9 @@ I'm an undergraduate Computer Engineering student at the **University of Pisa**,
 
 ### 🚀 What I'm building right now
 
-- **SwapDaemon**: Implementation of a Demand-Paging System with a Swapper Daemon for the "Calcolatori Elettronici" (Computer Architecture) course.  
-This project extends the provided educational kernel to support on-demand page loading and disk swapping, adding a DMA-based disk driver, page-fault handling, and a privileged swapper process that dynamically manages memory under constrained RAM conditions.
+- **Astra** Kernel Extension: A Dynamic Virtual Memory Manager.  
+  - Astra(_Architecture of Swapping and Translation Requested-Activated_) extends the `nucleo-8.3` kernel to implement a Dynamic Virtual Memory Manager, transforming static memory allocation into **Demand Paging**. This involves intercepting the hardware **Page Fault (#14)** exception and implementing **Swapping** functionality using **PCI Bus Mastering** to manage physical memory frames.
+
 - **[Course Notes Repository](https://github.com/MartyMcFly2905/Appunti_IngInformatica)**: A public repository where I'm organizing and sharing my computer engineering notes. I'm currently working on this courses notes:
   - Calcolatori elettronici
   - Elettrotecnica
